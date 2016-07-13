@@ -1,6 +1,6 @@
 {
-	"parent": "block/block",
+	"parent": "block/block", //"parent": "block/cube_all",
 	"textures": {
-		"all": "necromancer:models/alter"
+		"all": "necromancer:models/alter" //"all": "necromancer:items/alter"
 	}
 }
