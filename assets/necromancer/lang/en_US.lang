@@ -1,0 +1,11 @@
+tile.alter.name=Summoning Alter
+
+item.conjure_zombie.name=Conjure Zombie
+item.conjure_skeleton.name=Conjure Skeleton
+item.conjure_chicken.name=Conjure Chicken
+item.conjure_bat.name=Conjure Bat
+
+entity.Necromancer.ConjuredZombie.name=Conjured Zombie
+entity.Necromancer.ConjuredSkeleton.name=Conjured Skeleton
+entity.Necromancer.ConjuredChicken.name=Conjured Chicken
+entity.Necromancer.ConjuredBat.name=Conjured Bat

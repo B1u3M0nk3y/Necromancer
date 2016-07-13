@@ -1,0 +1,8 @@
+{
+	"variants": {
+        "facing=north": { "model": "necromancer:alter" },
+        "facing=south": { "model": "necromancer:alter", "y": 180 },
+        "facing=west":  { "model": "necromancer:alter", "y": 270 },
+        "facing=east":  { "model": "necromancer:alter", "y": 90 }
+	}
+}
